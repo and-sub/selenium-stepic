@@ -1,2 +1,2 @@
 # selenium-stepic
-Комент
+<p>Комент</p>
